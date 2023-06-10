@@ -7,6 +7,8 @@ I'm passionate about exploring data, building predictive models, and creating da
 ## Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat-square&logo=numpy&logoColor=white)
@@ -15,16 +17,15 @@ I'm passionate about exploring data, building predictive models, and creating da
 ![Tableau](https://img.shields.io/badge/-Tableau-yellow?style=flat-square&logo=tableau&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=flask&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-green?style=flat-square&logo=duckdb&logoColor=white)
 ![StatsModels](https://img.shields.io/badge/-StatsModels-red?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-red?style=flat-square&logo=python&logoColor=white)
 ![pingouin](https://img.shields.io/badge/-pingouin-red?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/-IBM%20DB2-blue?style=flat-square&logo=ibm&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-green?style=flat-square&logo=duckdb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 ## Some Projects that i have done
 
@@ -43,4 +44,4 @@ I'm looking to collaborate on data science and machine learning-related projects
 
 ## Contact Me
 
-Feel free to reach out to me via email  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victoradewoyinva@gmail.com)
+Feel free to reach out to me via email @  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victoradewoyinva@gmail.com)
