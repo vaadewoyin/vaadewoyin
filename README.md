@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Victor, a Data Scientist.
+### Hi there! 👋 I'm Victor,
 
-## About Me
+### About Me
 
 I'm passionate about exploring data, building predictive models, and creating data-driven solutions. I'm actively seeking opportunities to collaborate on data science and machine learning projects.
 
-## Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -27,7 +27,8 @@ I'm passionate about exploring data, building predictive models, and creating da
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 
 
-## Some Projects that i have done
+### Some Projects that i have done
+- [College Towns Data Engineering Project](https://github.com/vaadewoyin/College-Towns-Data-ETL-AWS-Mage-Pipeline): An end-to-end data engineering project focused on integrating and analyzing data from various sources related to college towns. Leveraging AWS services like S3, EC2, RDS, and Quicksight, along with the Mage data pipeline tool, it enables efficient data extraction, transformation, and loading. The project encompasses web scraping, data processing, and visualization, resulting in valuable insights for college town analysis.
 
 - [Used Car Price Prediction](https://github.com/vaadewoyin/used-car-price-prediction): An end-to-end machine learning project focused on predicting used car prices using xgboost model.The project includes data collection, where over 19,000 car listings were scraped. The data was then cleaned and preprocessed, including handling missing values and outliers. Exploratory data analysis was conducted to gain insights into the dataset. Feature engineering techniques were applied to extract relevant information from the data. Several machine learning models were trained and evaluated to predict car prices based on various features. Finally, a user-friendly Flask web application was developed to allow users to interactively estimate car prices.Additionally, a Tableau dashboard was created to provide visualizations and insights
 
