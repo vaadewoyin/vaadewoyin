@@ -45,4 +45,4 @@ I'm looking to collaborate on data science and machine learning-related projects
 
 ## Contact Me
 
-Feel free to reach out to me via email @  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victoradewoyinva@gmail.com)
+Feel free to reach out to me via [email](mailto:victoradewoyinva@gmail.com)
