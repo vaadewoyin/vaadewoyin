@@ -41,5 +41,8 @@ Currently, I'm focused on enhancing my skills in data engineering and deep learn
 ## 👥 Collaboration:
 I'm open to collaborating on data science and machine learning-related projects. If you have any interesting projects or ideas, feel free to reach out to me. Let's work together!
 
-## 📞 Contact Me:
-Feel free to reach out to me via [email](mailto:victoradewoyinva@gmail.com). I'm always open to interesting discussions and opportunities.
+## 📞 Contact Me
+Feel free to reach out to me.I'm always open to interesting discussions and opportunities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-adewoyin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoradewoyinva@gmail.com)
