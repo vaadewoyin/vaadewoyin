@@ -6,6 +6,7 @@ I'm Victor, I'm passionate about exploring data 📊, building predictive models
 Here are some of the technologies and tools I work with:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-blue?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=git&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
