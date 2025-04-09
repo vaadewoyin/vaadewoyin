@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Victor!
+# 👋 Hi, I'm Victor!
 
-🚀 **ML & AI Enthusiast** | Tinkering, exploring, and learning 
+✅ **ML & AI Enthusiast** | Tinkering, exploring, and learning.
 
 
