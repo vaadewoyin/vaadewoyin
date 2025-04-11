@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Victor!
+### Hi, I'm Victor 👋  
+I'm focused on deep learning and scalable ML systems
 
-✅ **ML & AI Enthusiast** | Tinkering, exploring, and learning.
-
-
+#### Links  
+ 
+- LinkedIn: [in/victor-adewoyin](https://www.linkedin.com/in/victor-adewoyin/)  
