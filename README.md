@@ -1,5 +1,5 @@
 ### Hi, I'm Victor 👋  
-I'm focused on deep learning and scalable ML systems
+I'm intrested in ML and AI systems.
 
 #### Links  
  
