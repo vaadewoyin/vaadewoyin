@@ -1,5 +1,5 @@
 ### Hi, I'm Victor 👋  
-I'm intrested in ML and AI systems.
+I'm interested in ML and AI systems.
 
 #### Links  
  
